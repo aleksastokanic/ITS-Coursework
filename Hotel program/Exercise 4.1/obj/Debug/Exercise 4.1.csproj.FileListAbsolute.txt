@@ -1,0 +1,23 @@
+C:\Users\User\source\repos\Exercise 4.1\Exercise 4.1\bin\Debug\Exercise 4.1.exe.config
+C:\Users\User\source\repos\Exercise 4.1\Exercise 4.1\bin\Debug\Exercise 4.1.exe
+C:\Users\User\source\repos\Exercise 4.1\Exercise 4.1\bin\Debug\Exercise 4.1.pdb
+C:\Users\User\source\repos\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise 4.1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise_4._1.frmHotel.resources
+C:\Users\User\source\repos\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise_4._1.frmUnosGosta.resources
+C:\Users\User\source\repos\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise_4._1.Properties.Resources.resources
+C:\Users\User\source\repos\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise 4.1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise 4.1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise 4.1.exe
+C:\Users\User\source\repos\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise 4.1.pdb
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\bin\Debug\Exercise 4.1.exe.config
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\bin\Debug\Exercise 4.1.exe
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\bin\Debug\Exercise 4.1.pdb
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise 4.1.csproj.AssemblyReference.cache
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise 4.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise_4._1.frmHotel.resources
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise_4._1.frmUnosGosta.resources
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise_4._1.Properties.Resources.resources
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise 4.1.csproj.GenerateResource.cache
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise 4.1.csproj.CoreCompileInputs.cache
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise 4.1.exe
+C:\Users\main\Downloads\New folder\Exercise 4.1\Exercise 4.1\Exercise 4.1\obj\Debug\Exercise 4.1.pdb
