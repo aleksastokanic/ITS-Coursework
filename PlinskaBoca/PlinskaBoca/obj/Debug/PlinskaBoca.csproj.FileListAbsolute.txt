@@ -1,0 +1,13 @@
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\PlinskaBoca\PlinskaBoca\bin\Debug\PlinskaBoca.exe.config
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\PlinskaBoca\PlinskaBoca\bin\Debug\PlinskaBoca.exe
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\PlinskaBoca\PlinskaBoca\bin\Debug\PlinskaBoca.pdb
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\PlinskaBoca\PlinskaBoca\obj\Debug\PlinskaBoca.csprojAssemblyReference.cache
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\PlinskaBoca\PlinskaBoca\obj\Debug\PlinskaBoca.csproj.CoreCompileInputs.cache
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\PlinskaBoca\PlinskaBoca\obj\Debug\PlinskaBoca.exe
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\PlinskaBoca\PlinskaBoca\obj\Debug\PlinskaBoca.pdb
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\PlinskaBoca_Dejan\PlinskaBoca\bin\Debug\PlinskaBoca.exe.config
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\PlinskaBoca_Dejan\PlinskaBoca\obj\Debug\PlinskaBoca.exe
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\PlinskaBoca_Dejan\PlinskaBoca\obj\Debug\PlinskaBoca.pdb
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\PlinskaBoca_Dejan\PlinskaBoca\obj\Debug\PlinskaBoca.csprojResolveAssemblyReference.cache
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\PlinskaBoca_Dejan\PlinskaBoca\bin\Debug\PlinskaBoca.exe
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\PlinskaBoca_Dejan\PlinskaBoca\bin\Debug\PlinskaBoca.pdb
