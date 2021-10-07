@@ -1,0 +1,19 @@
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\Pacijenti\Pacijenti\bin\Debug\Pacijenti.exe.config
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\Pacijenti\Pacijenti\bin\Debug\Pacijenti.exe
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\Pacijenti\Pacijenti\bin\Debug\Pacijenti.pdb
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\Pacijenti\Pacijenti\obj\Debug\Pacijenti.csprojAssemblyReference.cache
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\Pacijenti\Pacijenti\obj\Debug\Pacijenti.csproj.CoreCompileInputs.cache
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\Pacijenti\Pacijenti\obj\Debug\Pacijenti.exe
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\Vezbe\Pacijenti\Pacijenti\obj\Debug\Pacijenti.pdb
+D:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Pacijenti\Pacijenti\bin\Debug\Pacijenti.exe.config
+D:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Pacijenti\Pacijenti\obj\Debug\Pacijenti.exe
+D:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Pacijenti\Pacijenti\obj\Debug\Pacijenti.pdb
+D:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Pacijenti\Pacijenti\bin\Debug\Pacijenti.exe
+D:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Pacijenti\Pacijenti\bin\Debug\Pacijenti.pdb
+D:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Pacijenti\Pacijenti\obj\Debug\Pacijenti.csprojResolveAssemblyReference.cache
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Laboratorije\Pacijenti\bin\Debug\Pacijenti.exe.config
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Laboratorije\Pacijenti\obj\Debug\Pacijenti.exe
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Laboratorije\Pacijenti\obj\Debug\Pacijenti.pdb
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Laboratorije\Pacijenti\bin\Debug\Pacijenti.exe
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Laboratorije\Pacijenti\bin\Debug\Pacijenti.pdb
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Laboratorije\Pacijenti\obj\Debug\Pacijenti.csprojResolveAssemblyReference.cache
