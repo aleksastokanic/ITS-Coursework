@@ -1,0 +1,32 @@
+C:\Users\Anastasija\source\repos\1.2\1.2\bin\Debug\1.2.exe.config
+C:\Users\Anastasija\source\repos\1.2\1.2\bin\Debug\1.2.exe
+C:\Users\Anastasija\source\repos\1.2\1.2\bin\Debug\1.2.pdb
+C:\Users\Anastasija\source\repos\1.2\1.2\obj\Debug\1.2.csprojAssemblyReference.cache
+C:\Users\Anastasija\source\repos\1.2\1.2\obj\Debug\1.2.csproj.CoreCompileInputs.cache
+C:\Users\Anastasija\source\repos\1.2\1.2\obj\Debug\1.2.exe
+C:\Users\Anastasija\source\repos\1.2\1.2\obj\Debug\1.2.pdb
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\00 anastasija zadaci\1.2\bin\Debug\1.2.exe.config
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\00 anastasija zadaci\1.2\bin\Debug\1.2.exe
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\00 anastasija zadaci\1.2\bin\Debug\1.2.pdb
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\00 anastasija zadaci\1.2\obj\Debug\1.2.csprojAssemblyReference.cache
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\00 anastasija zadaci\1.2\obj\Debug\1.2.csproj.CoreCompileInputs.cache
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\00 anastasija zadaci\1.2\obj\Debug\1.2.exe
+D:\! Studije\03 Semestar\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\00 anastasija zadaci\1.2\obj\Debug\1.2.pdb
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\1.2 Autobus - List, Delegat, Sort, Try, LINQ, Index, Queue\obj\Debug\1.2.csprojAssemblyReference.cache
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\1.2 Autobus - List, Delegat, Sort, Try, LINQ, Index, Queue\obj\Debug\1.2.csproj.CoreCompileInputs.cache
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\1.2 Autobus - List, Delegat, Sort, Try, LINQ, Index, Queue\obj\Debug\1.2.exe
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\1.2 Autobus - List, Delegat, Sort, Try, LINQ, Index, Queue\obj\Debug\1.2.pdb
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\1.2 Autobus - List, Delegat, Sort, Try, LINQ, Index, Queue\bin\Debug\1.2.exe.config
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\1.2 Autobus - List, Delegat, Sort, Try, LINQ, Index, Queue\obj\Debug\1.2.csprojResolveAssemblyReference.cache
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\1.2 Autobus\bin\Debug\1.2.exe.config
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\1.2 Autobus\obj\Debug\1.2.exe
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\materijali od prethodne generacije\00 oop zadaci\1.2 Autobus\obj\Debug\1.2.pdb
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\1.2 Autobus\bin\Debug\1.2.exe.config
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\1.2 Autobus\obj\Debug\1.2.exe
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\1.2 Autobus\obj\Debug\1.2.pdb
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\1.2 Autobus\bin\Debug\1.2.exe
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\1.2 Autobus\bin\Debug\1.2.pdb
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\1.2 Autobus\obj\Debug\1.2.csprojResolveAssemblyReference.cache
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Autobus\bin\Debug\1.2.exe.config
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Autobus\obj\Debug\1.2.exe
+d:\! Studije\03 Semestar\II Kolokvijum\Objektno orijentisano programiranje - C#\Vezbe\Razni zadaci\Autobus\obj\Debug\1.2.pdb
