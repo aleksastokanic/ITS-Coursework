@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercise 4.2\Exercise 4.2\bin\Debug\Exercise 4.2.exe.config
+C:\Users\User\source\repos\Exercise 4.2\Exercise 4.2\bin\Debug\Exercise 4.2.exe
+C:\Users\User\source\repos\Exercise 4.2\Exercise 4.2\bin\Debug\Exercise 4.2.pdb
+C:\Users\User\source\repos\Exercise 4.2\Exercise 4.2\obj\Debug\Exercise 4.2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercise 4.2\Exercise 4.2\obj\Debug\Exercise_4._2.frmKonkursi.resources
+C:\Users\User\source\repos\Exercise 4.2\Exercise 4.2\obj\Debug\Exercise_4._2.frmUnosOglasa.resources
+C:\Users\User\source\repos\Exercise 4.2\Exercise 4.2\obj\Debug\Exercise_4._2.Properties.Resources.resources
+C:\Users\User\source\repos\Exercise 4.2\Exercise 4.2\obj\Debug\Exercise 4.2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Exercise 4.2\Exercise 4.2\obj\Debug\Exercise 4.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercise 4.2\Exercise 4.2\obj\Debug\Exercise 4.2.exe
+C:\Users\User\source\repos\Exercise 4.2\Exercise 4.2\obj\Debug\Exercise 4.2.pdb
